@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.wrapper{
+    max-width: 1440px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.klaviatura{
+    padding: 10px 10px;
+    width: 80%;
+    height: 500px;
+    border: 4px solid white;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.box_1{
+    width: 100%;
+    height: auto;
+    /* border: 4px solid white; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
+.box_1 button{
+    padding: 15px;  
+    box-shadow: 2px 2px 4px gray;  
+    font-weight: 600;
+    border: 0;
+}
