@@ -91,52 +91,203 @@ let btn90 = document.querySelector(".btn90");
 let btn91 = document.querySelector(".btn91");
 let btn92 = document.querySelector(".btn92");
 let btn93 = document.querySelector(".btn93");
+let par = document.getElementById("par");
 
 
- btn1.addEventListener("click", function(){
-    btn1.style.background = "red";
-    btn1.style.color = "white";
-});
+btn1.addEventListener("click", function(){
+    par.innerHTML = 27;
+})
 
- btn2.addEventListener("click", function(){
-    btn2.style.background = "red";
-    btn2.style.color = "white";
-});
+btn92.addEventListener("click", function(){
+    par.innerHTML = 112;
+})
 
- btn3.addEventListener("click", function(){
-    btn3.style.background = "red";
-    btn3.style.color = "white";
-});
+btn2.addEventListener("click", function(){
+    par.innerHTML = 113;
+})
 
- btn4.addEventListener("click", function(){
-    btn4.style.background = "red";
-    btn4.style.color = "white";
-});
+btn3.addEventListener("click", function(){
+    par.innerHTML = 114;
+})
 
- btn5.addEventListener("click", function(){
-    btn5.style.background = "red";
-    btn5.style.color = "white";
-});
+btn4.addEventListener("click", function(){
+    par.innerHTML = 115;
+})
 
- btn6.addEventListener("click", function(){
-    btn6.style.background = "red";
-    btn6.style.color = "white";
-});
+btn5.addEventListener("click", function(){
+    par.innerHTML = 116;
+})
 
- btn7.addEventListener("click", function(){
-    btn7.style.background = "red";
-    btn7.style.color = "white";
-});
+btn6.addEventListener("click", function(){
+    par.innerHTML = 117;
+})
 
- btn8.addEventListener("click", function(){
-    btn8.style.background = "red";
-    btn8.style.color = "white";
-});
+btn7.addEventListener("click", function(){
+    par.innerHTML = 118;
+})
 
- btn9.addEventListener("click", function(){
-    btn9.style.background = "red";
-    btn9.style.color = "white";
-});
+btn8.addEventListener("click", function(){
+    par.innerHTML = 119;
+})
+
+btn9.addEventListener("click", function(){
+    par.innerHTML = 120;
+})
+
+btn10.addEventListener("click", function(){
+    par.innerHTML = 121;
+})
+
+btn11.addEventListener("click", function(){
+    par.innerHTML = 122;
+})
+
+btn12.addEventListener("click", function(){
+    par.innerHTML = 123;
+})
+
+btn13.addEventListener("click", function(){
+    par.innerHTML = 46;
+})
+
+btn14.addEventListener("click", function(){
+    par.innerHTML = 183;
+})
+
+btn15.addEventListener("click", function(){
+    par.innerHTML = 45;
+})
+
+btn16.addEventListener("click", function(){
+    par.innerHTML = 192;
+})
+
+btn17.addEventListener("click", function(){
+    par.innerHTML = 49;
+})
+
+btn18.addEventListener("click", function(){
+    par.innerHTML = 50;
+})
+
+btn19.addEventListener("click", function(){
+    par.innerHTML = 51;
+})
+
+btn20.addEventListener("click", function(){
+    par.innerHTML = 54;
+})
+
+btn21.addEventListener("click", function(){
+    par.innerHTML = 55;
+})
+
+btn22.addEventListener("click", function(){
+    par.innerHTML = 56;
+})
+
+btn23.addEventListener("click", function(){
+    par.innerHTML = 57;
+})
+
+btn24.addEventListener("click", function(){
+    par.innerHTML = 48;
+})
+
+btn25.addEventListener("click", function(){
+    par.innerHTML = 45;
+})
+
+btn26.addEventListener("click", function(){
+    par.innerHTML = 45;
+})
+
+btn27.addEventListener("click", function(){
+    par.innerHTML = 189;
+})
+
+btn28.addEventListener("click", function(){
+    par.innerHTML = 187;
+})
+
+btn29.addEventListener("click", function(){
+    par.innerHTML = 8;
+})
+
+btn30.addEventListener("click", function(){
+    par.innerHTML = 144;
+})
+
+btn31.addEventListener("click", function(){
+    par.innerHTML = 109;
+})
+
+btn32.addEventListener("click", function(){
+    par.innerHTML = 106;
+})
+
+btn93.addEventListener("click", function(){
+    par.innerHTML = 111;
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  btn1.addEventListener("click", function(){
+//     btn1.style.background = "red";
+//     btn1.style.color = "white";
+// });
+
+//  btn2.addEventListener("click", function(){
+//     btn2.style.background = "red";
+//     btn2.style.color = "white";
+// });
+
+//  btn3.addEventListener("click", function(){
+//     btn3.style.background = "red";
+//     btn3.style.color = "white";
+// });
+
+//  btn4.addEventListener("click", function(){
+//     btn4.style.background = "red";
+//     btn4.style.color = "white";
+// });
+
+//  btn5.addEventListener("click", function(){
+//     btn5.style.background = "red";
+//     btn5.style.color = "white";
+// });
+
+//  btn6.addEventListener("click", function(){
+//     btn6.style.background = "red";
+//     btn6.style.color = "white";
+// });
+
+//  btn7.addEventListener("click", function(){
+//     btn7.style.background = "red";
+//     btn7.style.color = "white";
+// });
+
+//  btn8.addEventListener("click", function(){
+//     btn8.style.background = "red";
+//     btn8.style.color = "white";
+// });
+
+//  btn9.addEventListener("click", function(){
+//     btn9.style.background = "red";
+//     btn9.style.color = "white";
+// });
 
 
 
