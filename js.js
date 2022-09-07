@@ -91,6 +91,8 @@ let btn90 = document.querySelector(".btn90");
 let btn91 = document.querySelector(".btn91");
 let btn92 = document.querySelector(".btn92");
 let btn93 = document.querySelector(".btn93");
+let btn95 = document.querySelector(".btn95");
+let btn96 = document.querySelector(".btn96");
 let par = document.getElementById("par");
 
 
@@ -230,64 +232,310 @@ btn93.addEventListener("click", function(){
     par.innerHTML = 111;
 })
 
+btn33.addEventListener("click", function(){
+    par.innerHTML = 9;
+})
+
+btn34.addEventListener("click", function(){
+    par.innerHTML = 81;
+})
+
+btn35.addEventListener("click", function(){
+    par.innerHTML = 87;
+})
+
+btn36.addEventListener("click", function(){
+    par.innerHTML = 69;
+})
+
+btn37.addEventListener("click", function(){
+    par.innerHTML = 82;
+})
+
+btn38.addEventListener("click", function(){
+    par.innerHTML = 84;
+})
+
+btn39.addEventListener("click", function(){
+    par.innerHTML = 89;
+})
+
+btn40.addEventListener("click", function(){
+    par.innerHTML = 85;
+})
+
+btn41.addEventListener("click", function(){
+    par.innerHTML = 73;
+})
+
+btn42.addEventListener("click", function(){
+    par.innerHTML = 79;
+})
+
+btn43.addEventListener("click", function(){
+    par.innerHTML = 80;
+})
+
+btn44.addEventListener("click", function(){
+    par.innerHTML = 219;
+})
+
+btn45.addEventListener("click", function(){
+    par.innerHTML = 221;
+})
+
+btn46.addEventListener("click", function(){
+    par.innerHTML = 220;
+})
+
+btn47.addEventListener("click", function(){
+    par.innerHTML = 103;
+})
+
+btn48.addEventListener("click", function(){
+    par.innerHTML = 104;
+})
+
+btn49.addEventListener("click", function(){
+    par.innerHTML = 105;
+})
+
+btn50.addEventListener("click", function(){
+    par.innerHTML = 107;
+})
+
+btn51.addEventListener("click", function(){
+    par.innerHTML = 20;
+})
+
+btn52.addEventListener("click", function(){
+    par.innerHTML = 65;
+})
+
+btn53.addEventListener("click", function(){
+    par.innerHTML = 83;
+})
+
+btn54.addEventListener("click", function(){
+    par.innerHTML = 68;
+})
+
+btn55.addEventListener("click", function(){
+    par.innerHTML = 70;
+})
+
+btn56.addEventListener("click", function(){
+    par.innerHTML = 71;
+})
+
+btn57.addEventListener("click", function(){
+    par.innerHTML = 72;
+})
+
+btn58.addEventListener("click", function(){
+    par.innerHTML = 74;
+})
+
+btn59.addEventListener("click", function(){
+    par.innerHTML = 75;
+})
+
+btn60.addEventListener("click", function(){
+    par.innerHTML = 76;
+})
+
+btn61.addEventListener("click", function(){
+    par.innerHTML = 186;
+})
+
+btn62.addEventListener("click", function(){
+    par.innerHTML = 222;
+})
+
+btn63.addEventListener("click", function(){
+    par.innerHTML = 13;
+})
+
+btn64.addEventListener("click", function(){
+    par.innerHTML = 100;
+})
+
+btn65.addEventListener("click", function(){
+    par.innerHTML = 101;
+})
+
+btn66.addEventListener("click", function(){
+    par.innerHTML = 102;
+})
+
+btn67.addEventListener("click", function(){
+    par.innerHTML = 16;
+})
+
+btn68.addEventListener("click", function(){
+    par.innerHTML = 90;
+})
+
+btn69.addEventListener("click", function(){
+    par.innerHTML = 88;
+})
+
+btn70.addEventListener("click", function(){
+    par.innerHTML = 67;
+})
+
+btn71.addEventListener("click", function(){
+    par.innerHTML = 86;
+})
+
+btn72.addEventListener("click", function(){
+    par.innerHTML = 66;
+})
+
+btn73.addEventListener("click", function(){
+    par.innerHTML = 78;
+})
+
+btn74.addEventListener("click", function(){
+    par.innerHTML = 77;
+})
+
+btn75.addEventListener("click", function(){
+    par.innerHTML = 188;
+})
+
+btn76.addEventListener("click", function(){
+    par.innerHTML = 190;
+})
+
+btn77.addEventListener("click", function(){
+    par.innerHTML = 191;
+})
+
+btn78.addEventListener("click", function(){
+    par.innerHTML = 16;
+})
+
+btn79.addEventListener("click", function(){
+    par.innerHTML = 97;
+})
+
+btn80.addEventListener("click", function(){
+    par.innerHTML = 98;
+})
+
+btn81.addEventListener("click", function(){
+    par.innerHTML = 99;
+})
+
+btn82.addEventListener("click", function(){
+    par.innerHTML = 17;
+})
+
+btn83.addEventListener("click", function(){
+    par.innerHTML = 18;
+})
+
+btn84.addEventListener("click", function(){
+    par.innerHTML = 18;
+})
+
+btn85.addEventListener("click", function(){
+    par.innerHTML = 17;
+})
+
+btn86.addEventListener("click", function(){
+    par.innerHTML = 37;
+})
+
+btn87.addEventListener("click", function(){
+    par.innerHTML = 39;
+})
+
+btn88.addEventListener("click", function(){
+    par.innerHTML = 38;
+})
+
+btn89.addEventListener("click", function(){
+    par.innerHTML = 40;
+})
+
+btn90.addEventListener("click", function(){
+    par.innerHTML = 96;
+})
+
+btn91.addEventListener("click", function(){
+    par.innerHTML = 110;
+})
+
+btn95.addEventListener("click", function(){
+    par.innerHTML = 13;
+})
+
+btn96.addEventListener("click", function(){
+    par.innerHTML = 32;
+})
 
 
+document.addEventListener("keydown", (e) =>{
+    if(e.keyCode == 27){
+        par.innerHTML = 27;
+    }
+    if(e.keyCode == 112){
+        par.innerHTML = 112;
+    }
+    if(e.keyCode == 113){
+        par.innerHTML = 113;
+    }
+    if(e.keyCode == 114){
+        par.innerHTML = 114;
+    }
+    if(e.keyCode == 115){
+        par.innerHTML = 115;
+    }
+    if(e.keyCode == 116){
+        par.innerHTML = 116;
+    }
+    if(e.keyCode == 116){
+        par.innerHTML = 116;
+    }
+    if(e.keyCode == 117){
+        par.innerHTML = 117;
+    }
+    if(e.keyCode == 118){
+        par.innerHTML = 118;
+    }
+    if(e.keyCode == 119){
+        par.innerHTML = 119;
+    }
+    if(e.keyCode == 120){
+        par.innerHTML = 120;
+    }
+    if(e.keyCode == 121){
+        par.innerHTML = 121;
+    }
+    if(e.keyCode == 122){
+        par.innerHTML = 122;
+    }
+    if(e.keyCode == 123){
+        par.innerHTML = 123;
+    }
+    if(e.keyCode == 46){
+        par.innerHTML = 46;
+    }
+    if(e.keyCode == 45){
+        par.innerHTML = 45;
+    }
+    if(e.keyCode == 44){
+        par.innerHTML = 44;
+    }
+})
 
+let btn = document.querySelectorAll("button");
 
-
-
-
-
-
-
-
-
-
-
-//  btn1.addEventListener("click", function(){
-//     btn1.style.background = "red";
-//     btn1.style.color = "white";
-// });
-
-//  btn2.addEventListener("click", function(){
-//     btn2.style.background = "red";
-//     btn2.style.color = "white";
-// });
-
-//  btn3.addEventListener("click", function(){
-//     btn3.style.background = "red";
-//     btn3.style.color = "white";
-// });
-
-//  btn4.addEventListener("click", function(){
-//     btn4.style.background = "red";
-//     btn4.style.color = "white";
-// });
-
-//  btn5.addEventListener("click", function(){
-//     btn5.style.background = "red";
-//     btn5.style.color = "white";
-// });
-
-//  btn6.addEventListener("click", function(){
-//     btn6.style.background = "red";
-//     btn6.style.color = "white";
-// });
-
-//  btn7.addEventListener("click", function(){
-//     btn7.style.background = "red";
-//     btn7.style.color = "white";
-// });
-
-//  btn8.addEventListener("click", function(){
-//     btn8.style.background = "red";
-//     btn8.style.color = "white";
-// });
-
-//  btn9.addEventListener("click", function(){
-//     btn9.style.background = "red";
-//     btn9.style.color = "white";
-// });
-
-
+// btn.forEach((item)=> {
+//     item.addEventListener("click", function(){
+//         item.style.background = "red";
+//     })
+// })
 
