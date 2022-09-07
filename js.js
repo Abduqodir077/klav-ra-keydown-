@@ -529,9 +529,241 @@ document.addEventListener("keydown", (e) =>{
     if(e.keyCode == 44){
         par.innerHTML = 44;
     }
+    if(e.keyCode == 9){
+        par.innerHTML = 9;
+    }
+    if(e.keyCode == 81){
+        par.innerHTML = 81;
+    }
+    if(e.keyCode == 87){
+        par.innerHTML = 87;
+    }
+    if(e.keyCode == 69){
+        par.innerHTML = 69;
+    }
+    if(e.keyCode == 82){
+        par.innerHTML = 82;
+    }
+    if(e.keyCode == 84){
+        par.innerHTML = 84;
+    }
+    if(e.keyCode == 89){
+        par.innerHTML = 89;
+    }
+    if(e.keyCode == 85){
+        par.innerHTML = 85;
+    }
+    if(e.keyCode == 73){
+        par.innerHTML = 73;
+    }
+    if(e.keyCode == 79){
+        par.innerHTML = 79;
+    }
+    if(e.keyCode == 80){
+        par.innerHTML = 80;
+    }
+    if(e.keyCode == 219){
+        par.innerHTML = 219;
+    }
+    if(e.keyCode == 221){
+        par.innerHTML = 221;
+    }
+    if(e.keyCode == 220){
+        par.innerHTML = 220;
+    }
+    if(e.keyCode == 103){
+        par.innerHTML = 103;
+    }
+    if(e.keyCode == 104){
+        par.innerHTML = 104;
+    }
+    if(e.keyCode == 105){
+        par.innerHTML = 105;
+    }
+    if(e.keyCode == 107){
+        par.innerHTML = 107;
+    }
+    if(e.keyCode == 192){
+        par.innerHTML = 192;
+    }
+    if(e.keyCode == 49){
+        par.innerHTML = 49;
+    }
+    if(e.keyCode == 50){
+        par.innerHTML = 50;
+    }
+    if(e.keyCode == 51){
+        par.innerHTML = 51;
+    }
+    if(e.keyCode == 52){
+        par.innerHTML = 52;
+    }
+    if(e.keyCode == 53){
+        par.innerHTML = 53;
+    }
+    if(e.keyCode == 54){
+        par.innerHTML = 54;
+    }
+    if(e.keyCode == 55){
+        par.innerHTML = 55;
+    }
+    if(e.keyCode == 56){
+        par.innerHTML = 56;
+    }
+    if(e.keyCode == 57){
+        par.innerHTML = 57;
+    }
+    if(e.keyCode == 48){
+        par.innerHTML = 48;
+    }
+    if(e.keyCode == 189){
+        par.innerHTML = 189;
+    }
+    if(e.keyCode == 187){
+        par.innerHTML = 187;
+    }
+    if(e.keyCode == 8){
+        par.innerHTML = 8;
+    }
+    if(e.keyCode == 144){
+        par.innerHTML = 144;
+    }
+    if(e.keyCode == 111){
+        par.innerHTML = 111;
+    }
+    if(e.keyCode == 106){
+        par.innerHTML = 106;
+    }
+    if(e.keyCode == 109){
+        par.innerHTML = 109;
+    };
+    if(e.keyCode == 20){
+        par.innerHTML = 20;
+    };
+    if(e.keyCode == 65){
+        par.innerHTML = 65;
+    };
+    if(e.keyCode == 83){
+        par.innerHTML = 83;
+    };
+    if(e.keyCode == 68){
+        par.innerHTML = 68;
+    };
+    if(e.keyCode == 70){
+        par.innerHTML = 70;
+    };
+    if(e.keyCode == 71){
+        par.innerHTML = 71;
+    };
+    if(e.keyCode == 72){
+        par.innerHTML = 72;
+    };
+    if(e.keyCode == 74){
+        par.innerHTML = 74;
+    };
+    if(e.keyCode == 75){
+        par.innerHTML = 75;
+    };
+    if(e.keyCode == 76){
+        par.innerHTML = 76;
+    };
+    if(e.keyCode == 186){
+        par.innerHTML = 186;
+    };
+    if(e.keyCode == 222){
+        par.innerHTML = 222;
+    };
+    if(e.keyCode == 13){
+        par.innerHTML = 13;
+    };
+    if(e.keyCode == 100){
+        par.innerHTML = 100;
+    };
+    if(e.keyCode == 101){
+        par.innerHTML = 101;
+    };
+    if(e.keyCode == 102){
+        par.innerHTML = 102;
+    };
+    if(e.keyCode == 16){
+        par.innerHTML = 16;
+    };
+    if(e.keyCode == 90){
+        par.innerHTML = 90;
+    };
+    if(e.keyCode == 88){
+        par.innerHTML = 88;
+    };
+    if(e.keyCode == 67){
+        par.innerHTML = 67;
+    };
+    if(e.keyCode == 86){
+        par.innerHTML = 86;
+    };
+    if(e.keyCode == 66){
+        par.innerHTML = 66;
+    };
+    if(e.keyCode == 78){
+        par.innerHTML = 78;
+    };
+    if(e.keyCode == 77){
+        par.innerHTML = 77;
+    };
+    if(e.keyCode == 188){
+        par.innerHTML = 188;
+    };
+    if(e.keyCode == 190){
+        par.innerHTML = 190;
+    };
+    if(e.keyCode == 191){
+        par.innerHTML = 191;
+    };
+    if(e.keyCode == 97){
+        par.innerHTML = 97;
+    };
+    if(e.keyCode == 98){
+        par.innerHTML = 98;
+    };
+    if(e.keyCode == 99){
+        par.innerHTML = 99;
+    };
+    if(e.keyCode == 91){
+        par.innerHTML = 91;
+    };
+    if(e.keyCode == 18){
+        par.innerHTML = 18;
+    };
+    if(e.keyCode == 32){
+        par.innerHTML = 32;
+    };
+    if(e.keyCode == 37){
+        par.innerHTML = 37;
+    };
+    if(e.keyCode == 39){
+        par.innerHTML = 39;
+    };
+    if(e.keyCode == 38){
+        par.innerHTML = 38;
+    };
+    if(e.keyCode == 40){
+        par.innerHTML = 40;
+    };
+    if(e.keyCode == 96){
+        par.innerHTML = 96;
+    };
+    if(e.keyCode == 110){
+        par.innerHTML = 110;
+    };
+    if(e.keyCode == 13){
+        par.innerHTML = 13;
+    };
+    if(e.keyCode == 17){
+        par.innerHTML = 17;
+    };
+
 })
 
-let btn = document.querySelectorAll("button");
+// let btn = document.querySelectorAll("button");
 
 // btn.forEach((item)=> {
 //     item.addEventListener("click", function(){
