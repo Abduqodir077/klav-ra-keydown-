@@ -760,7 +760,7 @@ document.addEventListener("keydown", (e) =>{
     if(e.keyCode == 17){
         par.innerHTML = 17;
     };
-
+    
 })
 
 // let btn = document.querySelectorAll("button");
